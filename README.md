@@ -18,13 +18,13 @@ This project builds on the skills from the `matplotlib-challenge` [here](https:/
     - Google Geocode API
     - Google Places/Maps API
 
-## Technical Techniques
+## Technical Skills
 - API request, response storing
 - Cleaning, sorting, filtering
 - Plotting and subplotting (scatter, line, gmaps marker, gmaps heatmap)
 - Linear regression
 
-## Qualitative Techniques
+## Qualitative Skills
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
