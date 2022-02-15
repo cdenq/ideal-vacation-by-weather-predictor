@@ -1,11 +1,9 @@
-# python-api-challenge
+# ideal-vacation-by-weather-predictor
 ## About What's the Weather Like
 
-`What's the Weather Like` is a Python data analytics endeavor consisting of two parts:
+`What's the Weather Like` is a Python data analytics challenge consisting of two parts:
 1) `WeatherPy` pulls (Open Weather API, Google Geocode API), filters, and graphs world weather data to discover underlying trends with latitude vs. weather.
 2) `VacationPy` filters for cities based on predefined "ideal" weather conditions, visualizes a heatmap using GMaps, and queries and plots the nearest hotels to said cities.
-
-This project builds on the skills from the `matplotlib-challenge` [here](https://github.com/cdenq/matplotlib-challenge).
 
 ## Built with
 - Python
